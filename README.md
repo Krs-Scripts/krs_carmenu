@@ -1,5 +1,7 @@
 # krs_carmenu
 
+* Resmon Scripts  0.00 ms
+
 * Install
 * ensure **krs_carmenu** into to server.cfg
 

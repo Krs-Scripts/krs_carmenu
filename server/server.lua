@@ -1,1 +1,1 @@
-lib.versionCheck('Krs/krs_carmenu')
+lib.versionCheck('Krs-Scripts/krs_carmenu')
